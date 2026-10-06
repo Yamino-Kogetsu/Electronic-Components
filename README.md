@@ -8,7 +8,7 @@ A guide to check electronic components.
 
 ---
 
-## Electronic Components
+## A. Electronic Components
 
 An electronic component is any basic discrete electronic device or physical entity part of an electronic system used to affect electrons or their associated fields. Electronic components are mostly industrial products, available in a singular form and are not to be confused with electrical elements, which are conceptual abstractions representing idealized electronic components and elements. A datasheet for an electronic component is a technical document that provides detailed information about the component's specifications, characteristics, and performance. Discrete circuits are made of individual electronic components that only perform one function each as packaged, which are known as discrete components, although strictly the term discrete component refers to such a component with semiconductor material such as individual transistors.[^1][^2][^3]
 
@@ -18,7 +18,11 @@ In this repository, the primary focus is on discrete electronic components, cate
 
 ---
 
-## Active
+## B. Components with fixed values
+
+### 1. Resistor
+
+
 
 ---
 
